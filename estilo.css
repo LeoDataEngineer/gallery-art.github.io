@@ -461,7 +461,7 @@
         
         @media screen and (max-width: 600px) {
             .redes {
-                display: none;
+                display: block;
             }
             nav {
                 display: none;
@@ -484,6 +484,7 @@
             }
             #icono-nav {
                 display: block;
+                position: absolute;
             }
             #inicio .contenido .presentacion h2 {
                 font-size: 40px;
