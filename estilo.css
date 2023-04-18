@@ -486,6 +486,11 @@
                 display: block;
                 position: absolute;
             }
+
+            body{
+                width: 100%;
+            }
+
             #inicio .contenido .presentacion h2 {
                 font-size: 40px;
             }
